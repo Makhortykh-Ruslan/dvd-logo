@@ -1,0 +1,63 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+}
+
+.ball {
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    border-radius: 50%;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+
+.svg-icon {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top: 50px;
+    left: 50px;
+}
+
+.color-1 {
+    fill: #1ABC9C;
+    background-color: #1ABC9C;
+}
+
+.color-2 {
+    fill: #E74C3C;
+    background-color: #E74C3C;
+}
+
+.color-3 {
+    fill: #8E44AD;
+    background-color: #8E44AD;
+}
+
+.color-4 {
+    fill: #F39C12;
+    background-color: #F39C12;
+}
+
+.color-5 {
+    fill: #34495E;
+    background-color: #34495E;
+}
+
+.color-6 {
+    fill: #2ECC71;
+    background-color: #2ECC71;
+}
+
+.color-7 {
+    fill: #1ABC9C;
+    background-color: #1ABC9C;
+}
+
+.color-8 {
+    fill: #D35400;
+    background-color: #D35400;
+}
